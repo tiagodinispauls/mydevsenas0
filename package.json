@@ -1,0 +1,14 @@
+{
+  "name": "jsqlabs-api",
+  "version": "1.0.0",
+  "description": "devlabbonus Official Api to interact with all devlabbonus Apps",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
